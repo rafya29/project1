@@ -1,0 +1,122 @@
+body{
+ margin: auto;
+ background-color:#e7e5de;
+
+}
+
+
+header{
+    height:50px;
+    border:2px solid #3a3d60;
+    background-color:#b0aeab;
+ 
+}
+
+.social1{
+height: 50px;
+float: right;
+
+}
+.social2{
+    height: 50px;
+    float: right;
+}
+.social3{
+    height: 50px;
+    float: right;
+}
+.social4{
+    height: 50px;
+    float: right;
+}
+
+
+#aboutMe{ 
+    height: 350px;
+    border: 2px solid #3a3d60;
+}
+h1{
+    text-align: center;
+    margin: 5px;
+    
+}
+.dp{
+    width: 200px;
+    height: 200;
+    padding: top 10px;
+}
+p{
+    text-align: right;
+    text-align: center;
+    float:right;
+}
+
+}
+.all{
+    height: 300px;
+    border:2px solid #3a3d60;
+}
+.aboutall{
+    text-align: center;
+    padding top: 5px;
+
+}
+
+
+.education1{
+    height: 150px;
+    border:2px solid #3a3d60;
+}
+.edulogo{
+    float: right;
+    margin-right: 20%;
+}
+.skills1{
+    height: 150px;
+    border:2px solid #3a3d60  ;
+
+}
+
+.htmllogo{
+    float: right;
+    margin:2%;
+}
+.javalogo{
+    float: right;
+    margin: 2%;
+    margin-top: 2px;
+}
+.mongodblogo{
+    float: right;
+    margin: 2%;
+}
+.reactlogo{
+    float: right;
+    margin: 2%;
+}
+
+
+
+
+.hobbies1{
+       height: 150px;
+       border: 2px solid #3a3d60 ;
+}
+
+.contactme1{
+    height:120px ;
+    border:2px solid #3a3d60
+}
+.contactxt{
+    text-align: center;
+    height: 20px;
+    
+}
+footer{
+    height: 120px;
+    border: 2px solid #3a3d60 ;
+}
+#addressmap{
+    height: 100px;
+    width: 100px;
+}
